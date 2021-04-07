@@ -10,4 +10,4 @@ cd FBH4CK3R
 python3 main.py
 ```
 
-> TERMUX
+> USE COM SABEDORIA
