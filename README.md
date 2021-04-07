@@ -9,3 +9,5 @@ git clone https://github.com/0xStr0ng/FBH4CK3R
 cd FBH4CK3R
 python3 main.py
 ```
+
+> TERMUX
